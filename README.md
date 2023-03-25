@@ -1,7 +1,21 @@
-# iPhonePhotographyTest
+# frontend-test
 
-This is the Landing Page for iPhonePhotography Build in Vue.js
+This template should help get you started developing with Vue 3 in Vite.
 
-## clone the code
-## Hit the command "yarn install" to install the node-modules
-## After that Hit the command "yarn run dev" to run the code
+## Project Setup
+
+```sh
+yarn install
+```
+
+### Compile and Hot-Reload for Development
+
+```sh
+yarn run dev
+```
+
+### Compile and Minify for Production
+
+```sh
+npm run build
+```
